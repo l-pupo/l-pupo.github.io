@@ -4,7 +4,7 @@ Crawl-delay: 5
 Disallow: /terms-and-conditions
 
 # Specific rule for bots matching "iubenda-radar"
-User-agent: *iubenda-radar*
+User-agent: iubenda-radar
 Disallow: /privacy-policy
 Disallow: /terms-and-conditions
 
