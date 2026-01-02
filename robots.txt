@@ -6,8 +6,6 @@ Disallow: /terms-and-conditions
 # Specific rule for bots matching "iubenda-radar"
 User-agent: iubenda-radar
 Disallow: /privacy-policy
-Disallow: /terms-and-conditions
 
 # Sitemap location
-Sitemap: https://example.com/sitemap.xml
-# Sitemap: https://l-pupo.github.io/sitemap.xml
+Sitemap: https://l-pupo.github.io/sitemap.xml
