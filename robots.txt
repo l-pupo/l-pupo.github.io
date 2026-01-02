@@ -2,5 +2,4 @@ User-agent: *
 Crawl-delay: 5
 Disallow:
 
-Sitemap: https://example.com/sitemap.xml
-Sitemap: https://example.com/sitemap-pages.xml`;
+Sitemap: https://l-pupo.github.io/sitemap.xml
