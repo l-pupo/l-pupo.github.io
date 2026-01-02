@@ -1,5 +1,12 @@
+# Default rule for all bots
 User-agent: *
 Crawl-delay: 5
-Disallow:
+Disallow: /terms-and-conditions
 
+# Specific rule for bots matching "iubenda-radar"
+User-agent: *iubenda-radar*
+Disallow: /privacy-policy
+Disallow: /terms-and-conditions
+
+# Sitemap location
 Sitemap: https://l-pupo.github.io/sitemap.xml
