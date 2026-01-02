@@ -10,4 +10,4 @@ Disallow: /terms-and-conditions
 
 # Sitemap location
 Sitemap: https://example.com/sitemap.xml
-Sitemap: https://l-pupo.github.io/sitemap.xml
+# Sitemap: https://l-pupo.github.io/sitemap.xml
